@@ -1,0 +1,16 @@
+.fed--list-item {
+  list-style: none;
+}
+
+.fed--icon-list {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.fed--icon {
+  border: none !important;
+  border-radius: 4px;
+  max-width: 48px  !important;
+  max-height: 48px !important;
+  margin: 0 16px !important;
+}
