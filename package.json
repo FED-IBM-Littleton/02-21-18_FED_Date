@@ -1,8 +1,8 @@
 {
   "name": "reveal.js",
   "version": "3.6.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
+  "description": "FED@IBM Littleton Branch",
+  "homepage": "https://github.ibm.com/FED/fed-littleton-branch",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -11,13 +11,12 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Adriana Rios",
+    "email": "amrios@us.ibm.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/FED-IBM-Littleton/02-21-18_FED_Date.git"
   },
   "engines": {
     "node": ">=4.0.0"
